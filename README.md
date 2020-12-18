@@ -1,4 +1,4 @@
-<a href="#user-content-hi--im-grahamsh"><img src="https://raw.githubusercontent.com/GrahamSH-LLK/GrahamSH-LLK/4641c96f16e6a959b76f507c42b27607e7de11b5/image.svg"></a>
+<!-- <a href="#user-content-hi--im-grahamsh"><img src="https://raw.githubusercontent.com/GrahamSH-LLK/GrahamSH-LLK/4641c96f16e6a959b76f507c42b27607e7de11b5/image.svg"></a>
 <br>
 <br>
 <br>
@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 <h1 align="center">Hi 👋, I'm GrahamSH</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grahamsh-llk" alt="grahamsh-llk" /> </p>
