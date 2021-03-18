@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grahamsh-llk&margin-w=15&margin-h=15" alt="grahamsh-llk" /></a> </p>
 
-- 🔭 I’m currently working on [wasteof.money](https://github.com/jeffalo/wasteof.money)
+- 🔭 I’m currently working on selfhosting on my Rasberry Pi 4
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
