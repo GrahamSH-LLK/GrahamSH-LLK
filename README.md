@@ -9,9 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Env](https://grahamsh.com/nodejs/test/2021/01/13/env.html)
-- [Welcome!](https://grahamsh.com/2021/01/13/welcome.html)
-- [Test](https://grahamsh.com/2021/01/13/test.html)
+- [Weekly blog posts!](https://grahamsh.com/blog/weekly_post)
+- [My favorite npm packages](https://grahamsh.com/blog/fave_packages)
+- [Welcome to my new Nuxt site!](https://grahamsh.com/blog/nuxt)
+- [Creating an Env Setup Script](https://grahamsh.com/blog/env)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
