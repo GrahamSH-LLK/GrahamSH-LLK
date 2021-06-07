@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [E-Jenda](https://grahamsh.com/blog/e-jenda)
 - [Weekly blog posts!](https://grahamsh.com/blog/weekly_post)
 - [My favorite npm packages](https://grahamsh.com/blog/fave_packages)
 - [Welcome to my new Nuxt site!](https://grahamsh.com/blog/nuxt)
-- [Creating an Env Setup Script](https://grahamsh.com/blog/env)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
