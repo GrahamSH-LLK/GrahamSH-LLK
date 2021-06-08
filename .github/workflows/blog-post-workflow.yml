@@ -9,6 +9,8 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
+            - name: Metrics embed
+              uses: lowlighter/metrics@v3.10
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
