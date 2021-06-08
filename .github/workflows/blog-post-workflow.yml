@@ -12,8 +12,13 @@ jobs:
             - name: Metrics embed
               uses: lowlighter/metrics@v3.10
               with: 
-                    token: ${{ secrets.METRIC_TOKEN }}
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://grahamsh.com/feed.xml"
+                      token: ${{ secrets.METRIC_TOKEN }}
+                      user: GrahamSH-LLK
+                      template: terminal
+                      base: header, activity, community, repositories, metadata
+                      config_timezone: America/New_York
+                      plugin_pagespeed: yes
+                      plugin_pagespeed_url: grahamsh.com
+                      plugin_rss: yes
+                      plugin_rss_limit: 4
+                      plugin_rss_source: https://grahamsh.com/feed.xml
