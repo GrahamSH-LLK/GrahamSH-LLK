@@ -261,7 +261,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Mon, 20 Sep 2021 19:09:25
+Last generated: Mon, 20 Sep 2021 20:11:55
 </div>
 <div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>GrahamSH</b> registered=1y, uid=4252, gid=16
   contributed to 188 repositories <b><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span></b>
@@ -280,7 +280,7 @@ Last generated: Mon, 20 Sep 2021 19:09:25
   <b>   18</b> repositories starred
   <b>   40</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 41 repositories - 30.9 MB
+<div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 41 repositories - 31 MB
 -r--  <b>    6</b>  stargazers
 -r--  <b>   10</b>  forks
 -r--  <b>   41</b>  watchers
@@ -288,8 +288,8 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># curl -I </div><div class="stdout"><span class="error">API returned 500 (S)</span></div>
-<footer>Connection reset by 61.100.61.181</footer></pre>
+<div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
+<footer>Connection reset by 53.19.145.113</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
