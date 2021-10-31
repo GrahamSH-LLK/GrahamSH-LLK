@@ -261,7 +261,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Sun, 31 Oct 2021 15:10:12
+Last generated: Sun, 31 Oct 2021 16:13:05
 </div>
 <div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>GrahamSH</b> registered=1y, uid=4252, gid=18
   contributed to 185 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffc501">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#ebedf0">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#ffee4a">#</span><span style="color:#03001c">#</span><span style="color:#03001c">#</span><span style="color:#ffee4a">#</span><span style="color:#ebedf0">#</span></b>
@@ -289,7 +289,7 @@ dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
 <div class="stdin"><span class="ps1-path">grahamsh-llk@metrics</span>:<span class="ps1-location">~</span># curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
-<footer>Connection reset by 242.103.140.66</footer></pre>
+<footer>Connection reset by 77.154.49.242</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
