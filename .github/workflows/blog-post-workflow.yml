@@ -19,6 +19,6 @@ jobs:
                       config_timezone: America/New_York
                       plugin_pagespeed: yes
                       plugin_pagespeed_url: grahamsh.com
-                      plugin_rss: yes
+                      plugin_rss: false
                       plugin_rss_limit: 4
                       plugin_rss_source: https://grahamsh.com/feed.xml
