@@ -20,5 +20,5 @@ jobs:
                       plugin_pagespeed: yes
                       plugin_pagespeed_url: grahamsh.com
                       plugin_rss: false
-                      plugin_rss_limit: 4
-                      plugin_rss_source: https://grahamsh.com/feed.xml
+                      #plugin_rss_limit: 4
+                      #plugin_rss_source: https://grahamsh.com/feed.xml
